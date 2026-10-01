@@ -42,7 +42,7 @@ I am Yang Wantao. I was a senior equity partner of Zhong Lun and the partner act
 
 From January 2025 onward, I filed written complaints about some of the lawyers directly involved with arbitration institutions, and circulated in late 2025 an *Amicus Curiae Arbitration Alert and Petition* to some arbitration institutions (in this repository, in English and Chinese).
 
-The lawyers concerned have since taken senior positions in the international arbitration community. Public announcements show that Sun Huawei became a Vice-Chair of the Hong Kong International Arbitration Centre, effective 1 July 2026, and that Cao Lijun serves as a director of the Singapore International Arbitration Centre. **I make no allegation against the institutions themselves.**
+The lawyers concerned now hold positions of influence in international arbitration. Public announcements show that Sun Huawei became a Vice-Chair of the Hong Kong International Arbitration Centre, effective 1 July 2026. SIAC lists Cao Lijun as a member of its Board of Directors, appointed 30 April 2025. I make no allegation against the institutions themselves.
 
 HKIAC reviewed my complaints of 6 and 8 January 2025 and decided on 3 February 2025 to take no further steps. HKIAC has never stated that the complaints lacked merit, and it gave no reasons. It asked for none of the further information or material I had offered. Fifteen months later it announced Sun Huawei’s appointment as a Vice-Chair. After acknowledging receipt of my Amicus Curiae Arbitration Alert and Petition, the Hainan International Arbitration Court published its roster on 15 February 2026; none of the lawyers concerned appears on it, although some of them formally applied for roster listing.
 
@@ -67,6 +67,7 @@ Nothing in this repository has been adjudicated by a court or tribunal. These ar
 
 The amicus letter already in this repository asks the lawyers concerned — and now every recipient — three questions: which statement of fact is untrue, which piece of evidence is inauthentic, and what flaws the reasoning has. That invitation stands, and it extends to Zhong Lun Law Firm and to the individuals concerned. If any statement here is inaccurate or any document inauthentic, I will correct it. Any response received will be published here in full, with any reply I have to it.
 
+1 October 2026: this note previously referred to Cao Lijun as sitting on the SIAC Court of Arbitration; SIAC lists him as a member of its Board of Directors (appointed 30 April 2025). Corrected.
 ---
 
 ## The other files
